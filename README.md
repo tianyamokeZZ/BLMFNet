@@ -1,2 +1,2 @@
 # CMFNet
-accepted by tgrs
+maybe it will be accepted by tgrs
