@@ -1,2 +1,2 @@
 # CMFNet
-maybe it will be accepted by tgrs
+If the article is accepted the code will be published soon
