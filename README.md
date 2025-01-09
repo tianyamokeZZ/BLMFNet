@@ -12,7 +12,6 @@ Cite this work: Z. Zhao, B. Zhao, Y. Wu, Z. He, and L. Gao, "Building extraction
   volume={},
   number={},
   pages={1-15},
-  keywords={Buildings;Feature extraction;Optical imaging;Data mining;Optical sensors;Radar polarimetry;Adaptive optics;Synthetic aperture radar;Optical scattering;Remote sensing;Multispectral;Synthetic aperture radar (SAR);Building extraction;Multimodal segmentation},
   doi={10.1109/JSTARS.2025.3525709}
 }
 
